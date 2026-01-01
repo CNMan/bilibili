@@ -33,6 +33,7 @@
 惊天魔盗团.Now.You.See.Me.mkv
 惊天魔盗团2.Now.You.See.Me.2.mkv
 精武英雄.Fist.of.Legend.mkv
+军情五处：利益之争.Spooks.The.Greater.Good.mkv
 浪浪山小妖怪.Nobody.mkv
 老狗.Old.Dog.mkv
 猎狐·行动.Fox.Hunt.mkv
@@ -41,6 +42,8 @@
 龙门飞甲.Flying.Swords.of.Dragon.Gate.mkv
 龙潭虎穴.Cradle.2.the.Grave.mkv
 龙在天涯.Dragon.Fight.mkv
+罗小黑战记.The.Legend.of.Hei.mkv
+罗小黑战记2.The.Legend.of.Hei.II.mkv
 绿皮书.Green.Book.mkv
 湄公河行动.Operation.Mekong.mkv
 美人依旧.Beauty.Remains.mkv
@@ -50,6 +53,7 @@
 明月几时有.Our.Time.Will.Come.mkv
 哪吒之魔童闹海.Ne.Zha.2.mkv
 南京照相馆.Dead.To.Rights.mkv
+年会不能停.Johnny.Keep.Walking.mkv
 鸟人.Birdman.mkv
 怒水西流.The.River.of.Fury.mkv
 千王之王2000.The.Tricky.Master.mkv
@@ -82,5 +86,7 @@
 这个杀手不太冷.Léon.The.Professional.mkv
 真爱至上.Love.Actually.mkv
 正义联盟：扎克·施奈德版.Zack.Snyder's.Justice.League.mkv
+志愿军：存亡之战.The.Volunteers.The.Battle.of.Life.and.Death.mkv
+志愿军：浴血和平.The.Volunteers.Peace.at.Last.mkv
 致命罗密欧.Romeo.Must.Die.mkv
 中南海保镖.The.Bodyguard.from.Beijing.mkv
