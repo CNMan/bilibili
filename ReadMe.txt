@@ -16,10 +16,12 @@
 敦刻尔克.Dunkirk.mkv
 恶意.Malice.mkv
 方世玉续集.The.Legend.2.mkv
+飞驰人生2.Pegasus.2.mkv
 敢死队2.The.Expendables.2.mkv
 钢琴家.The.Pianist.mkv
 功夫.Kung.Fu.Hustle.mkv
 功夫之王.The.Forbidden.Kingdom.mkv
+孤注一掷.No.More.Bets.mkv
 国王的演讲.The.King's.Speech.mkv
 海蒂和爷爷.Heidi.mkv
 憨豆特工.Johnny.English.mkv
@@ -34,11 +36,13 @@
 惊天魔盗团2.Now.You.See.Me.2.mkv
 精武英雄.Fist.of.Legend.mkv
 军情五处：利益之争.Spooks.The.Greater.Good.mkv
+浪浪人生.Row.to.Win.mkv
 浪浪山小妖怪.Nobody.mkv
 老狗.Old.Dog.mkv
 猎狐·行动.Fox.Hunt.mkv
 猎金·游戏.A.Gilded.Game.mkv
 猎杀U-571.U-571.mkv
+流浪地球2.The.Wandering.Earth.2.mkv
 龙门飞甲.Flying.Swords.of.Dragon.Gate.mkv
 龙潭虎穴.Cradle.2.the.Grave.mkv
 龙在天涯.Dragon.Fight.mkv
@@ -59,6 +63,7 @@
 千王之王2000.The.Tricky.Master.mkv
 情书.Love.Letter.mkv
 让子弹飞.Let.the.Bullets.Fly.mkv
+热辣滚烫.YOLO.mkv
 沙丘.Dune.mkv
 沙丘2.Dune.Part.Two.mkv
 少年的你.Better.Days.mkv
@@ -81,10 +86,12 @@
 一本漫画闯天涯.My.Hero.mkv
 异世降临.Ash.mkv
 游侠.War.mkv
+战狼.Wolf.Warrior.mkv
 长安的荔枝.The.Lychee.Road.mkv
 长江七号.CJ7.mkv
 这个杀手不太冷.Léon.The.Professional.mkv
 真爱至上.Love.Actually.mkv
+震耳欲聋.Sound.of.Silence.mkv
 正义联盟：扎克·施奈德版.Zack.Snyder's.Justice.League.mkv
 志愿军：存亡之战.The.Volunteers.The.Battle.of.Life.and.Death.mkv
 志愿军：浴血和平.The.Volunteers.Peace.at.Last.mkv
