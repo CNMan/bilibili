@@ -6,8 +6,10 @@
 不说话的爱.MuMu.mkv
 触不可及.The.Intouchables.mkv
 刺杀肯尼迪.JFK.mkv
+刺杀小说家2.A.Writer's.Odyssey.2.mkv
 大话西游之大圣娶亲.A.Chinese.Odyssey.Part.Two-Cinderella.mkv
 大话西游之月光宝盒.A.Chinese.Odyssey.Part.One-Pandora's.Box.mkv
+盗梦空间.Inception.mkv
 帝国的毁灭.Downfall.mkv
 第二十条.Article.20.mkv
 第十一回.The.Eleventh.Chapter.mkv
@@ -27,6 +29,7 @@
 憨豆特工.Johnny.English.mkv
 何以为家.Capernaum.mkv
 红海行动.Operation.Red.Sea.mkv
+坏蛋联盟.The.Bad.Guys.mkv
 霍元甲.Fearless.mkv
 建国大业.The.Founding.of.a.Republic.mkv
 僵尸肖恩.Shaun.of.the.Dead.mkv
@@ -55,6 +58,7 @@
 秘密花园.The.Secret.Garden.mkv
 明日边缘.Edge.of.Tomorrow.mkv
 明月几时有.Our.Time.Will.Come.mkv
+默杀.A.Place.Called.Silence.mkv
 哪吒之魔童闹海.Ne.Zha.2.mkv
 南京照相馆.Dead.To.Rights.mkv
 年会不能停.Johnny.Keep.Walking.mkv
@@ -70,6 +74,7 @@
 射雕英雄传：侠之大者.Legends.of.The.Condor.Heroes：The.Gallants.mkv
 十七岁的单车.Beijing.Bicycle.mkv
 史密斯夫妇.Mr.&Mrs.Smith.mkv
+手遮天.The.Butcher's.Blade.mkv
 算死草.Lawyer.Lawyer.mkv
 太极张三丰.Tai.Chi.Master.mkv
 唐探1900.Detective.Chinatown.1900.mkv
@@ -97,3 +102,5 @@
 志愿军：浴血和平.The.Volunteers.Peace.at.Last.mkv
 致命罗密欧.Romeo.Must.Die.mkv
 中南海保镖.The.Bodyguard.from.Beijing.mkv
+周处除三害.The.Pig.the.Snake.and.the.Pigeon.mkv
+抓娃娃.Successor.mkv
