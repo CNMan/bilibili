@@ -21,6 +21,7 @@
 2001太空漫游.2001.A.Space.Odyssey.mkv
 爱乐之城.La.La.Land.mkv
 爱在黎明破晓前.Before.Sunrise.mkv
+爱在日落黄昏时.Before.Sunset.mkv
 爱在午夜降临前.Before.Midnight.mkv
 霸王别姬.Farewell.My.Concubine.mkv
 白日焰火.Black.Coal.Thin.Ice.mkv
@@ -178,6 +179,7 @@
 唐山大地震.Aftershock.mkv
 唐探1900.Detective.Chinatown.1900.mkv
 天书奇谭.Legend.of.Sealed.Book.mkv
+天堂电影院.Cinema.Paradiso.mkv
 甜蜜蜜.Comrades.Almost.a.Love.Story.mkv
 完美的世界.A.Perfect.World.mkv
 为奴十二年.12.Years.a.Slave.mkv
@@ -187,6 +189,7 @@
 无双.Project.Gutenberg.mkv
 武林外传.My.Own.Swordsman.mkv
 误杀3.Octopus.with.Broken.Arms.mkv
+喜剧之王.King.of.Comedy.mkv
 喜剧之王.The.King.of.Comedy.mkv
 戏台.The.Stage.mkv
 夏洛特烦恼.Goodbye.Mr.Loser.mkv
