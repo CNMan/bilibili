@@ -59,6 +59,7 @@
 方世玉续集.The.Legend.2.mkv
 房间.Room.mkv
 飞驰人生2.Pegasus.2.mkv
+飞驰人生3.Pegasus.3.mkv
 非诚勿扰.If.You.Are.the.One.mkv
 非诚勿扰2.If.You.Are.the.One.2.mkv
 非诚勿扰3.If.You.Are.the.One.3.mkv
@@ -144,11 +145,13 @@
 默杀.A.Place.Called.Silence.mkv
 哪吒之魔童闹海.Ne.Zha.2.mkv
 南京照相馆.Dead.To.Rights.mkv
+匿杀.The.Fire.Raven.mkv
 年会不能停.Johnny.Keep.Walking.mkv
 鸟人.Birdman.mkv
 怒水西流.The.River.of.Fury.mkv
 七号房的礼物.Miracle.in.Cell.No.7.mkv
 七武士.Seven.Samurai.mkv
+七宗罪.Seven.mkv
 千王之王2000.The.Tricky.Master.mkv
 倩女幽魂.A.Chinese.Ghost.Story.mkv
 窃听风暴.The.Lives.of.Others.mkv
@@ -162,6 +165,7 @@
 沙丘2.Dune.Part.Two.mkv
 少年的你.Better.Days.mkv
 射雕英雄传：侠之大者.Legends.of.The.Condor.Heroes：The.Gallants.mkv
+射雕英雄传之东成西就.The.Eagle.Shooting.Heroes.mkv
 神秘巨星.Secret.Superstar.mkv
 神探.Mad.Detective.mkv
 盛夏和她的未婚夫.mkv
@@ -183,6 +187,7 @@
 甜蜜蜜.Comrades.Almost.a.Love.Story.mkv
 完美的世界.A.Perfect.World.mkv
 为奴十二年.12.Years.a.Slave.mkv
+我，许可.It's.OK.mkv
 我才不要和你做朋友呢.Be.My.Friend.mkv
 卧虎藏龙.Crouching.Tiger.Hidden.Dragon.mkv
 无名之辈.A.Cool.Fish.mkv
@@ -242,6 +247,7 @@
 智取威虎山.The.Taking.of.Tiger.Mountain.mkv
 中南海保镖.The.Bodyguard.from.Beijing.mkv
 终结者.The.Terminator.mkv
+重返寂静岭.Return.to.Silent.Hill.mkv
 重生.Go.For.Broke.mkv
 周处除三害.The.Pig.the.Snake.and.the.Pigeon.mkv
 侏罗纪公园.Jurassic.Park.mkv
