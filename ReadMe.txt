@@ -25,6 +25,7 @@
 爱在午夜降临前.Before.Midnight.mkv
 霸王别姬.Farewell.My.Concubine.mkv
 白日焰火.Black.Coal.Thin.Ice.mkv
+白色严冬.Into.the.White.mkv
 爆裂鼓手.Whiplash.mkv
 本杰明·巴顿奇事.The.Curious.Case.of.Benjamin.Button.mkv
 波西米亚狂想曲.Bohemian.Rhapsody.mkv
@@ -71,6 +72,7 @@
 疯狂的赛车.Crazy.Racer.mkv
 敢死队2.The.Expendables.2.mkv
 钢琴家.The.Pianist.mkv
+给阿嬷的情书.Dear.You.mkv
 公民凯恩.Citizen.Kane.mkv
 功夫.Kung.Fu.Hustle.mkv
 功夫之王.The.Forbidden.Kingdom.mkv
@@ -82,6 +84,7 @@
 海蒂和爷爷.Heidi.mkv
 海街日记.Our.Little.Sister.mkv
 憨豆特工.Johnny.English.mkv
+好东西.Her.Story.mkv
 何以为家.Capernaum.mkv
 红海行动.Operation.Red.Sea.mkv
 蝴蝶的微笑.Butterfly.Smile.mkv
@@ -143,6 +146,7 @@
 模仿游戏.The.Imitation.Game.mkv
 摩登时代.Modern.Times.mkv
 默杀.A.Place.Called.Silence.mkv
+哪吒闹海.Nezha.Conquers.the.Dragon.King.mkv
 哪吒之魔童闹海.Ne.Zha.2.mkv
 南京照相馆.Dead.To.Rights.mkv
 匿杀.The.Fire.Raven.mkv
@@ -180,12 +184,14 @@
 死无对证.The.Invisible.Guest.mkv
 算死草.Lawyer.Lawyer.mkv
 太极张三丰.Tai.Chi.Master.mkv
+太阳照常升起.The.Sun.Also.Rises.mkv
 唐山大地震.Aftershock.mkv
 唐探1900.Detective.Chinatown.1900.mkv
 天书奇谭.Legend.of.Sealed.Book.mkv
 天堂电影院.Cinema.Paradiso.mkv
 甜蜜蜜.Comrades.Almost.a.Love.Story.mkv
 完美的世界.A.Perfect.World.mkv
+挽救计划.Project.Hail.Mary.mkv
 为奴十二年.12.Years.a.Slave.mkv
 我，许可.It's.OK.mkv
 我才不要和你做朋友呢.Be.My.Friend.mkv
@@ -254,3 +260,4 @@
 侏罗纪公园2：失落的世界.The.Lost.World.Jurassic.Park.mkv
 抓娃娃.Successor.mkv
 紫日.Purple.Sunset.mkv
+走走停停.Gold.or.Shit.mkv
